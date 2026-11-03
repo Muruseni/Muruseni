@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✦🌿Reminder to Start your day with a Pull Request🌿✦
+# ✦🌿Remember to Pull Request!🌿✦
 
 &#x20;✨
 
