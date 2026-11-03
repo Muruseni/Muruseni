@@ -1,16 +1,30 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Muruseni/Muruseni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ✦ 🌿 Reminder to start your day with a Pull Request 🌿 ✦
 
-Here are some ideas to get you started:
+&#x20;✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<br>
+
+<img src="./McSkin.png" alt="" width="190" align="left">
+
+### Muruseni
+
+Uni Student in Game Dev/IT ♡
+
+<br clear="left">
+
+\---
+
+Take a look at my [repositories](https://github.com/YOUR_USERNAME?tab=repositories) to see what jams I've been in! 🌷
+
+\---
+
+<div align="center">
+
+*✧ Thanks for stopping by ✧*  
+
+</div>
+
