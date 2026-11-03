@@ -20,8 +20,6 @@ Caffeine addict and student juice enjoyer %
 
 ♡
 
-<code><escape><br></escape></code>
-
 &#x20;Message me on Discord! @```muruseni```
 
 <br clear="left">
