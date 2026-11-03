@@ -21,6 +21,7 @@ Message me on Discord! @muruseni
 \---
 
 Take a look at my [repositories](https://github.com/Muruseni?tab=repositories) to see what jams I've been in! 🌷
+
 And checkout my [Itch page](https://muruseni.itch.io)!
 
 \---
