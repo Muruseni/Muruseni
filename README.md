@@ -14,11 +14,14 @@
 
 Uni Student in Game Dev/IT ♡
 
+Message me on Discord! @muruseni
+
 <br clear="left">
 
 \---
 
-Take a look at my [repositories](https://github.com/YOUR_USERNAME?tab=repositories) to see what jams I've been in! 🌷
+Take a look at my [repositories](https://github.com/Muruseni?tab=repositories) to see what jams I've been in! 🌷
+And checkout my [Itch page](https://muruseni.itch.io)!
 
 \---
 
