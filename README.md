@@ -12,13 +12,13 @@
 
 ### Muruseni
 
-\---
+\♡
 
-Uni Student in Game Dev/IT ♡
+Uni Student in Game Dev/IT
 
 Caffeine addict and student juice enjoyer %
 
-\---
+\♡
 
 
 Message me on Discord! @```muruseni```
