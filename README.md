@@ -10,7 +10,7 @@
 
 <img src="./McSkin.png" alt="" width="190" align="left">
 
-### Muruseni
+### --- Muruseni ---
 
 ♡
 
