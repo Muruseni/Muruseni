@@ -10,15 +10,15 @@
 
 <img src="./McSkin.png" alt="" width="190" align="left">
 
-### --- Muruseni ---
+### ♡ Muruseni ♡
 
-♡
+-
 
 Uni Student in Game Dev/IT
 
 Caffeine addict and student juice enjoyer %
 
-♡
+-
 
 Message me on Discord! @```muruseni```
 
