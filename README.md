@@ -1,6 +1,6 @@
 <div align="center">
 
-#✦🌿Reminder to Start your day with a Pull Request🌿✦
+# ✦🌿Reminder to Start your day with a Pull Request🌿✦
 
 &#x20;✨
 
@@ -20,7 +20,7 @@ Caffeine addict and student juice enjoyer %
 
 ♡
 
-&#x20;Message me on Discord! @```muruseni```
+Message me on Discord! @```muruseni```
 
 <br clear="left">
 
