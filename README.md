@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✦ 🌿 Reminder to start your day with a Pull Request 🌿 ✦
+# ✦ 🌿 Reminder: Start your day with a Pull Request 🌿 ✦
 
 &#x20;✨
 
@@ -13,6 +13,11 @@
 ### Muruseni
 
 Uni Student in Game Dev/IT ♡
+
+Caffeine addict and student juice enjoyer %
+
+
+
 
 Message me on Discord! @muruseni
 
